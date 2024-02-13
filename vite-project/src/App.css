@@ -23,3 +23,11 @@
 .link {
   margin: 10px;
 }
+
+.nav-link {
+  margin: 10px;
+}
+a.active {
+  color: red;
+}
+
